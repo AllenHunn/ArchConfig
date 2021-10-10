@@ -6,6 +6,7 @@ sudo aura -S pip --noconfirm
 sudo aura -S speedtest-cli --noconfirm
 sudo aura -S vim --noconfirm
 sudo aura -A nomachine --noconfirm
+sudo aura -S rust --noconfirm
 sudo aura -S anaconda --noconfirm
 git config --global user.name "Allen Hunn"
 git config --global user.email allenhunn@gmail.com
@@ -14,3 +15,4 @@ vim
 vim
 cp -RT ./.config ~/.config
 cp -RT ./.SpaceVim.d ~/.SpaceVim.d
+cargo install deno --locked
