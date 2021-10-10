@@ -1,0 +1,37 @@
+Error 2021-10-08 19:36:26: Failed to activate a workspace, Class name = y, completed in 528ms, has a falsy return value, Arg 1: undefined, Return Value: undefined Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+    at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80592)
+    at h (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80539)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:23444)
+    at P.activate (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:833312)
+    at /home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:52:191510
+    at Array.map (<anonymous>)
+    at y.activateWorkspace (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:52:191501)
+Error 2021-10-08 19:36:26: Failure during activation. Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+    at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80592)
+    at h (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80539)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:23444)
+    at P.activate (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:833312)
+    at /home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:52:191510
+    at Array.map (<anonymous>)
+    at y.activateWorkspace (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:52:191501)
+Error 2021-10-08 19:36:26: sendStartupTelemetry() failed. Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+    at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80592)
+    at h (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80539)
+    at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:23444)
+    at P.activate (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:833312)
+    at /home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:52:191510
+    at Array.map (<anonymous>)
+    at y.activateWorkspace (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:52:191501)
+Python interpreter path: /bin/python
+Starting Jedi Python language engine.
+Error 2021-10-08 19:36:26: Failed to check if file needs to be fixed EntryNotFound (FileSystemError): Unable to read file '/home/allenhunn/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file '/home/allenhunn/.config/Code/User/settings.json')
+    at _handleError (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at y.readText (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:314351)
+    at p.doesFileNeedToBeFixed (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823969)
+    at /home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823096
+    at async Promise.all (index 0)
+    at p.getFilesToBeFixed (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823042)
+    at p.updateTestSettings (/home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:822669) {
+  code: 'FileNotFound'
+}

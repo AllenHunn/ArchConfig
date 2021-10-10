@@ -1,0 +1,35 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP Window-Maximized 1920x1080=true
+eDP XPosition 1920x1080=1280
+eDP YPosition 1920x1080=527
+
+[Recent Files]
+File1[$e]=/usr/share/wallpapers/garuda-wallpapers/Spotted-Eagle.jpg
+File10[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-pipes-blue-sgs.png
+File2[$e]=/usr/share/wallpapers/garuda-wallpapers/since-sgs.png
+File3[$e]=/usr/share/wallpapers/garuda-wallpapers/Serpent-Eagle.jpg
+File4[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-waves-white-sgs.png
+File5[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-waves-sgs.png
+File6[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-waves-petrol-sgs.png
+File7[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-SKYLINE-blue-sgs.png
+File8[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-SKYLINE-blue-02-sgs.png
+File9[$e]=/usr/share/wallpapers/garuda-wallpapers/remix-sgs.png
+Name1[$e]=Spotted-Eagle.jpg
+Name10[$e]=remix-pipes-blue-sgs.png
+Name2[$e]=since-sgs.png
+Name3[$e]=Serpent-Eagle.jpg
+Name4[$e]=remix-waves-white-sgs.png
+Name5[$e]=remix-waves-sgs.png
+Name6[$e]=remix-waves-petrol-sgs.png
+Name7[$e]=remix-SKYLINE-blue-sgs.png
+Name8[$e]=remix-SKYLINE-blue-02-sgs.png
+Name9[$e]=remix-sgs.png

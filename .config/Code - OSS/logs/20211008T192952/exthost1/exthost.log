@@ -1,0 +1,225 @@
+[2021-10-08 19:29:55.793] [exthost] [info] extension host started
+[2021-10-08 19:29:55.884] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-08 19:29:55.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-10-08 19:29:55.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-08 19:29:55.891] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-10-08 19:29:56.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-08 19:29:56.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-10-08 19:29:56.054] [exthost] [info] eager extensions activated
+[2021-10-08 19:29:56.065] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-08 19:29:56.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-08 19:29:56.252] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:29:56.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-08 19:29:56.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:29:56.261] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-08 19:30:29.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-10-08 19:30:29.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-08 19:30:29.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-10-08 19:30:29.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extensionEditingMain
+[2021-10-08 19:30:29.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-10-08 19:30:29.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-08 19:30:29.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-10-08 19:30:29.904] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/npmMain
+[2021-10-08 19:30:33.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-10-08 19:30:33.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-10-08 19:30:33.357] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:30:33.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-10-08 19:30:35.956] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:30:35.956] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.20/client/out/extension
+[2021-10-08 19:30:45.662] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:30:45.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/editorconfig.editorconfig-0.16.6/out/editorConfigMain.js
+[2021-10-08 19:31:02.248] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:31:02.248] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-10-08 19:31:03.470] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":false,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-10-08 19:31:03.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-10-08 19:31:48.895] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml {"startup":false,"extensionId":{"value":"redhat.vscode-yaml","_lower":"redhat.vscode-yaml"},"activationEvent":"onLanguage:yaml"}
+[2021-10-08 19:31:48.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/redhat.vscode-yaml-0.23.0/dist/extension
+[2021-10-08 19:31:49.754] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:31:59.004] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:31:59.137] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:31:59.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-10-08 19:32:12.423] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:12.425] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:30.816] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:37.802] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:41.505] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:41.595] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-10-08 19:32:41.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-10-08 19:32:47.856] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:52.359] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:52.390] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:58.230] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:32:58.270] [exthost] [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter {"startup":false,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2021-10-08 19:32:58.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/hbenl.test-adapter-converter-0.1.2/out/extension.js
+[2021-10-08 19:32:58.297] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":false,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2021-10-08 19:32:58.297] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/hbenl.vscode-test-explorer-2.21.1/out/main.js
+[2021-10-08 19:33:05.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-10-08 19:33:05.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2021-10-08 19:33:05.755] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2021-10-08 19:33:05.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.4.0/dist/extension
+[2021-10-08 19:33:06.050] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"api"}
+[2021-10-08 19:33:06.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-math/dist/extension
+[2021-10-08 19:33:06.560] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:33:06.656] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":false,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:33:06.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.212/dist/extension
+[2021-10-08 19:33:06.955] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:33:11.345] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:33:11.393] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:33:49.395] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:33:49.452] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-10-08 19:33:49.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-10-08 19:33:49.495] [exthost] [error] Activating extension christian-kohler.path-intellisense failed due to an error:
+[2021-10-08 19:33:49.495] [exthost] [error] Error: Cannot find module 'json5'
+Require stack:
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/tsconfig.service.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/configuration.service.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/javascript/javascript.provider.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/default.provider.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/index.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+    at Module._load (internal/modules/cjs/loader.js:732:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at v (/usr/lib/code/out/vs/loader.js:4:698)
+    at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/tsconfig.service.js:13:15)
+    at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at v (/usr/lib/code/out/vs/loader.js:4:698)
+    at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/configuration.service.js:13:28)
+    at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at v (/usr/lib/code/out/vs/loader.js:4:698)
+    at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/javascript/javascript.provider.js:13:33)
+    at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at v (/usr/lib/code/out/vs/loader.js:4:698)
+    at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/default.provider.js:3:31)
+    at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at v (/usr/lib/code/out/vs/loader.js:4:698)
+    at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/index.js:3:28)
+    at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at v (/usr/lib/code/out/vs/loader.js:4:698)
+    at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js:6:21)
+    at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Function.t [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:101)
+    at v._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26187)
+    at v._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12594)
+    at v._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+    at v.$activate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:20108)
+[2021-10-08 19:33:51.921] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:08.197] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:08.267] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":false,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-10-08 19:34:08.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/oderwat.indent-rainbow-8.1.0/out/extension
+[2021-10-08 19:34:08.269] [exthost] [error] Activating extension oderwat.indent-rainbow failed due to an error:
+[2021-10-08 19:34:08.269] [exthost] [error] Error: Cannot find module '/home/allenhunn/.vscode-oss/extensions/oderwat.indent-rainbow-8.1.0/out/extension'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+    at Module._load (internal/modules/cjs/loader.js:732:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Function.t [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:101)
+    at v._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26187)
+    at v._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12594)
+    at v._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+    at v.$activate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:20108)
+[2021-10-08 19:34:20.701] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:24.814] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:25.502] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:25.573] [exthost] [info] ExtensionService#_doActivateExtension Ikuyadeu.r {"startup":false,"extensionId":{"value":"Ikuyadeu.r","_lower":"ikuyadeu.r"},"activationEvent":"onLanguage:r"}
+[2021-10-08 19:34:25.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/ikuyadeu.r-2.3.1/out/extension
+[2021-10-08 19:34:31.878] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:42.580] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:50.065] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:50.141] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-10-08 19:34:50.141] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-10-08 19:34:56.135] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:34:56.183] [exthost] [info] ExtensionService#_doActivateExtension denoland.vscode-deno {"startup":false,"extensionId":{"value":"denoland.vscode-deno","_lower":"denoland.vscode-deno"},"activationEvent":"onLanguage:javascript"}
+[2021-10-08 19:34:56.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/denoland.vscode-deno-3.9.1/client/dist/main
+[2021-10-08 19:34:56.300] [exthost] [error] Activating extension denoland.vscode-deno failed due to an error:
+[2021-10-08 19:34:56.300] [exthost] [error] Launching server using command deno failed.
+[2021-10-08 19:35:04.512] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:35:11.528] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:35:19.056] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:35:29.266] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:35:29.304] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:typescript"}
+[2021-10-08 19:35:29.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/christian-kohler.npm-intellisense-1.2.2/out/src/extension
+[2021-10-08 19:36:03.828] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:36:20.335] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:36:20.412] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":false,"extensionId":{"value":"alefragnani.Bookmarks","_lower":"alefragnani.bookmarks"},"activationEvent":"onStartupFinished"}
+[2021-10-08 19:36:20.413] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/alefragnani.bookmarks-13.0.1/dist/extension
+[2021-10-08 19:36:24.094] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django {"startup":false,"extensionId":{"value":"batisteo.vscode-django","_lower":"batisteo.vscode-django"},"activationEvent":"onLanguage:python"}
+[2021-10-08 19:36:24.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/batisteo.vscode-django-1.6.0/out/extension
+[2021-10-08 19:36:24.115] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2021-10-08 19:36:24.116] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/ms-python.python-2021.9.1246542782/out/client/extension
+[2021-10-08 19:36:24.614] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-10-08 19:36:24.614] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension
+[2021-10-08 19:36:25.079] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring {"startup":false,"extensionId":{"value":"njpwerner.autodocstring","_lower":"njpwerner.autodocstring"},"activationEvent":"onLanguage:python"}
+[2021-10-08 19:36:25.079] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/njpwerner.autodocstring-0.5.4/out/extension.js
+[2021-10-08 19:37:01.445] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:37:03.601] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:37:17.990] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2021-10-08 19:38:48.235] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.

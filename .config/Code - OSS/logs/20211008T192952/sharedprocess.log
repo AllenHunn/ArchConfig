@@ -1,0 +1,265 @@
+[2021-10-08 19:30:05.424] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-08 19:30:25.419] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-08 19:30:25.420] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-08 19:30:29.341] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-10-08 19:30:30.361] [sharedprocess] [info] Installing extension: redhat.vscode-xml
+[2021-10-08 19:30:32.466] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-8.1.0
+[2021-10-08 19:30:33.070] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.990b7927-f832-4e81-b2f8-77ff53ace0a8: esbenp.prettier-vscode
+[2021-10-08 19:30:33.083] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0
+[2021-10-08 19:30:33.087] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-10-08 19:30:33.101] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-10-08 19:30:34.829] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-10-08 19:30:34.935] [sharedprocess] [info] Downloaded extension: redhat.vscode-xml /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/redhat.vscode-xml-0.18.0
+[2021-10-08 19:30:35.418] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-08 19:30:35.549] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.20
+[2021-10-08 19:30:35.614] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.e67e661c-ff67-4977-8f15-673fbbd94aea: dbaeumer.vscode-eslint
+[2021-10-08 19:30:35.626] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.20
+[2021-10-08 19:30:35.630] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2021-10-08 19:30:35.639] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2021-10-08 19:30:35.968] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.b037a8cf-4e4b-457d-9628-e1c954b00d6a: redhat.vscode-xml
+[2021-10-08 19:30:35.981] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/redhat.vscode-xml-0.18.0
+[2021-10-08 19:30:35.985] [sharedprocess] [info] Extracting completed. redhat.vscode-xml
+[2021-10-08 19:30:35.995] [sharedprocess] [info] Extension installed successfully: redhat.vscode-xml
+[2021-10-08 19:30:44.296] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2021-10-08 19:30:45.225] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/editorconfig.editorconfig-0.16.6
+[2021-10-08 19:30:45.350] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.9fa5a35b-655b-4122-901c-50a1cbe5453f: editorconfig.editorconfig
+[2021-10-08 19:30:45.359] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/editorconfig.editorconfig-0.16.6
+[2021-10-08 19:30:45.361] [sharedprocess] [info] Extracting completed. editorconfig.editorconfig
+[2021-10-08 19:30:45.370] [sharedprocess] [info] Extension installed successfully: editorconfig.editorconfig
+[2021-10-08 19:30:59.037] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2021-10-08 19:31:00.292] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/eamodio.gitlens-11.6.0
+[2021-10-08 19:31:00.792] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-10-08 19:31:01.499] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.5575fdfa-e35f-40eb-9f62-6f5f44206b40: eamodio.gitlens
+[2021-10-08 19:31:01.531] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/eamodio.gitlens-11.6.0
+[2021-10-08 19:31:01.541] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2021-10-08 19:31:01.575] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2021-10-08 19:31:02.900] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/vscodevim.vim-1.21.7
+[2021-10-08 19:31:03.151] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.d3b52d4d-fc5c-4607-8138-a6c24c8d866e: vscodevim.vim
+[2021-10-08 19:31:03.166] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/vscodevim.vim-1.21.7
+[2021-10-08 19:31:03.172] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2021-10-08 19:31:03.206] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2021-10-08 19:31:42.041] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-10-08 19:31:43.292] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.16.1
+[2021-10-08 19:31:43.580] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.94c216ba-ffe8-43c7-9cb9-e7e31c8d6bd8: ms-azuretools.vscode-docker
+[2021-10-08 19:31:43.597] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.16.1
+[2021-10-08 19:31:43.605] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-10-08 19:31:43.623] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-10-08 19:31:47.366] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2021-10-08 19:31:48.400] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/redhat.vscode-yaml-0.23.0
+[2021-10-08 19:31:48.521] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.e1d1e6c2-49a3-40d5-bfa0-cd9513b8acf6: redhat.vscode-yaml
+[2021-10-08 19:31:48.534] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/redhat.vscode-yaml-0.23.0
+[2021-10-08 19:31:48.538] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2021-10-08 19:31:48.550] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2021-10-08 19:31:55.051] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-10-08 19:31:57.251] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/dart-code.dart-code-3.27.0
+[2021-10-08 19:31:57.372] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-10-08 19:31:58.305] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.code-runner-0.11.5
+[2021-10-08 19:31:58.713] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.d34596c6-cd55-4201-b9c4-49bb87bd7402: formulahendry.code-runner
+[2021-10-08 19:31:58.725] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/formulahendry.code-runner-0.11.5
+[2021-10-08 19:31:58.727] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2021-10-08 19:31:58.736] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2021-10-08 19:32:12.013] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.7bd4e438-1f07-4640-be97-9b3b9ad27126: dart-code.dart-code
+[2021-10-08 19:32:12.038] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/dart-code.dart-code-3.27.0
+[2021-10-08 19:32:12.043] [sharedprocess] [info] Extracting completed. dart-code.dart-code
+[2021-10-08 19:32:12.060] [sharedprocess] [info] Extension installed successfully: dart-code.dart-code
+[2021-10-08 19:32:27.405] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2021-10-08 19:32:29.051] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/yzhang.markdown-all-in-one-3.4.0
+[2021-10-08 19:32:30.589] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.a9b7d44f-a239-46e1-93c4-88a627393bc9: yzhang.markdown-all-in-one
+[2021-10-08 19:32:30.595] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.4.0
+[2021-10-08 19:32:30.600] [sharedprocess] [info] Extracting completed. yzhang.markdown-all-in-one
+[2021-10-08 19:32:30.606] [sharedprocess] [info] Extension installed successfully: yzhang.markdown-all-in-one
+[2021-10-08 19:32:36.558] [sharedprocess] [info] Installing extension: muhammad-sammy.csharp
+[2021-10-08 19:32:37.445] [sharedprocess] [info] Downloaded extension: muhammad-sammy.csharp /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/muhammad-sammy.csharp-1.23.15
+[2021-10-08 19:32:37.507] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.a8e01ee8-f1d7-40c6-882d-faa760100807: muhammad-sammy.csharp
+[2021-10-08 19:32:37.523] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/muhammad-sammy.csharp-1.23.15
+[2021-10-08 19:32:37.529] [sharedprocess] [info] Extracting completed. muhammad-sammy.csharp
+[2021-10-08 19:32:37.544] [sharedprocess] [info] Extension installed successfully: muhammad-sammy.csharp
+[2021-10-08 19:32:40.367] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2021-10-08 19:32:41.265] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.12
+[2021-10-08 19:32:41.315] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.9b4cab2e-e9bd-4a83-b974-fc493722927a: formulahendry.auto-close-tag
+[2021-10-08 19:32:41.321] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.12
+[2021-10-08 19:32:41.324] [sharedprocess] [info] Extracting completed. formulahendry.auto-close-tag
+[2021-10-08 19:32:41.330] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2021-10-08 19:32:46.659] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2021-10-08 19:32:47.488] [sharedprocess] [info] Downloaded extension: rust-lang.rust /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/rust-lang.rust-0.7.8
+[2021-10-08 19:32:47.694] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.5d310cdf-ad85-4597-81a0-a84793fc327c: rust-lang.rust
+[2021-10-08 19:32:47.700] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/rust-lang.rust-0.7.8
+[2021-10-08 19:32:47.703] [sharedprocess] [info] Extracting completed. rust-lang.rust
+[2021-10-08 19:32:47.710] [sharedprocess] [info] Extension installed successfully: rust-lang.rust
+[2021-10-08 19:32:50.657] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2021-10-08 19:32:51.898] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/batisteo.vscode-django-1.6.0
+[2021-10-08 19:32:52.121] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.76f1217c-9c2f-4cc4-9c27-7ac072092e57: batisteo.vscode-django
+[2021-10-08 19:32:52.128] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/batisteo.vscode-django-1.6.0
+[2021-10-08 19:32:52.131] [sharedprocess] [info] Extracting completed. batisteo.vscode-django
+[2021-10-08 19:32:52.137] [sharedprocess] [info] Extension installed successfully: batisteo.vscode-django
+[2021-10-08 19:32:55.670] [sharedprocess] [info] Installing extension: hbenl.vscode-test-explorer
+[2021-10-08 19:32:56.700] [sharedprocess] [info] Installing extension: hbenl.test-adapter-converter
+[2021-10-08 19:32:57.252] [sharedprocess] [info] Downloaded extension: hbenl.test-adapter-converter /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/hbenl.test-adapter-converter-0.1.2
+[2021-10-08 19:32:57.271] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.c93b5da5-23fd-410c-8404-04b46f2d7784: hbenl.test-adapter-converter
+[2021-10-08 19:32:57.278] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/hbenl.test-adapter-converter-0.1.2
+[2021-10-08 19:32:57.281] [sharedprocess] [info] Extracting completed. hbenl.test-adapter-converter
+[2021-10-08 19:32:57.857] [sharedprocess] [info] Downloaded extension: hbenl.vscode-test-explorer /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/hbenl.vscode-test-explorer-2.21.1
+[2021-10-08 19:32:57.988] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.95c22da6-c73d-4fa3-923b-3b52a5950db5: hbenl.vscode-test-explorer
+[2021-10-08 19:32:57.995] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/hbenl.vscode-test-explorer-2.21.1
+[2021-10-08 19:32:57.999] [sharedprocess] [info] Extracting completed. hbenl.vscode-test-explorer
+[2021-10-08 19:32:58.005] [sharedprocess] [info] Extension installed successfully: hbenl.test-adapter-converter
+[2021-10-08 19:32:58.006] [sharedprocess] [info] Extension installed successfully: hbenl.vscode-test-explorer
+[2021-10-08 19:33:04.887] [sharedprocess] [info] Installing extension: gruntfuggly.todo-tree
+[2021-10-08 19:33:06.226] [sharedprocess] [info] Downloaded extension: gruntfuggly.todo-tree /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/gruntfuggly.todo-tree-0.0.212
+[2021-10-08 19:33:06.364] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.252a9b69-aa07-4da1-867a-a001d295f09e: gruntfuggly.todo-tree
+[2021-10-08 19:33:06.372] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.212
+[2021-10-08 19:33:06.376] [sharedprocess] [info] Extracting completed. gruntfuggly.todo-tree
+[2021-10-08 19:33:06.383] [sharedprocess] [info] Extension installed successfully: gruntfuggly.todo-tree
+[2021-10-08 19:33:07.711] [sharedprocess] [info] Installing extension: julialang.language-julia
+[2021-10-08 19:33:09.474] [sharedprocess] [info] Downloaded extension: julialang.language-julia /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/julialang.language-julia-1.4.3
+[2021-10-08 19:33:11.104] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.899008e8-ca61-4c5e-8648-9fd33dfc0ac2: julialang.language-julia
+[2021-10-08 19:33:11.114] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/julialang.language-julia-1.4.3
+[2021-10-08 19:33:11.117] [sharedprocess] [info] Extracting completed. julialang.language-julia
+[2021-10-08 19:33:11.125] [sharedprocess] [info] Extension installed successfully: julialang.language-julia
+[2021-10-08 19:33:47.380] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2021-10-08 19:33:49.127] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.4.0
+[2021-10-08 19:33:49.233] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.6d47d673-9af3-40bd-849b-c04a5312d0fd: christian-kohler.path-intellisense
+[2021-10-08 19:33:49.241] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0
+[2021-10-08 19:33:49.243] [sharedprocess] [info] Extracting completed. christian-kohler.path-intellisense
+[2021-10-08 19:33:49.250] [sharedprocess] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2021-10-08 19:33:49.729] [sharedprocess] [info] Installing extension: serayuzgur.crates
+[2021-10-08 19:33:51.638] [sharedprocess] [info] Downloaded extension: serayuzgur.crates /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/serayuzgur.crates-0.5.9
+[2021-10-08 19:33:51.742] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.ece2ac77-6d1b-4849-aa0b-7163aaed4507: serayuzgur.crates
+[2021-10-08 19:33:51.751] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/serayuzgur.crates-0.5.9
+[2021-10-08 19:33:51.755] [sharedprocess] [info] Extracting completed. serayuzgur.crates
+[2021-10-08 19:33:51.761] [sharedprocess] [info] Extension installed successfully: serayuzgur.crates
+[2021-10-08 19:33:57.225] [sharedprocess] [info] Installing extension: bungcip.better-toml
+[2021-10-08 19:33:58.242] [sharedprocess] [info] Downloaded extension: bungcip.better-toml /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/bungcip.better-toml-0.3.2
+[2021-10-08 19:33:58.474] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.af85fade-ce38-4f55-b9b5-cdbfa0e1a31f: bungcip.better-toml
+[2021-10-08 19:33:58.480] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/bungcip.better-toml-0.3.2
+[2021-10-08 19:33:58.483] [sharedprocess] [info] Extracting completed. bungcip.better-toml
+[2021-10-08 19:33:58.489] [sharedprocess] [info] Extension installed successfully: bungcip.better-toml
+[2021-10-08 19:34:04.277] [sharedprocess] [info] Installing extension: oderwat.indent-rainbow
+[2021-10-08 19:34:05.714] [sharedprocess] [info] Downloaded extension: oderwat.indent-rainbow /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/oderwat.indent-rainbow-8.1.0
+[2021-10-08 19:34:08.040] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.ed71c662-fce6-412c-9a8b-a7f488fd9751: oderwat.indent-rainbow
+[2021-10-08 19:34:08.047] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/oderwat.indent-rainbow-8.1.0
+[2021-10-08 19:34:08.050] [sharedprocess] [info] Extracting completed. oderwat.indent-rainbow
+[2021-10-08 19:34:08.056] [sharedprocess] [info] Extension installed successfully: oderwat.indent-rainbow
+[2021-10-08 19:34:12.270] [sharedprocess] [info] Installing extension: ikuyadeu.r
+[2021-10-08 19:34:16.058] [sharedprocess] [info] Downloaded extension: ikuyadeu.r /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/ikuyadeu.r-2.3.1
+[2021-10-08 19:34:17.226] [sharedprocess] [info] Installing extension: rebornix.ruby
+[2021-10-08 19:34:18.158] [sharedprocess] [info] Installing extension: wingrunr21.vscode-ruby
+[2021-10-08 19:34:18.739] [sharedprocess] [info] Downloaded extension: wingrunr21.vscode-ruby /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/wingrunr21.vscode-ruby-0.28.0
+[2021-10-08 19:34:18.794] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.7d45b196-30a5-4c14-ad04-580ecb96b122: wingrunr21.vscode-ruby
+[2021-10-08 19:34:18.802] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/wingrunr21.vscode-ruby-0.28.0
+[2021-10-08 19:34:18.809] [sharedprocess] [info] Extracting completed. wingrunr21.vscode-ruby
+[2021-10-08 19:34:19.545] [sharedprocess] [info] Downloaded extension: rebornix.ruby /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/rebornix.ruby-0.28.0
+[2021-10-08 19:34:19.653] [sharedprocess] [info] Installing extension: sumneko.lua
+[2021-10-08 19:34:20.412] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.5627570a-6815-435b-8344-9d1b2e933a85: rebornix.ruby
+[2021-10-08 19:34:20.426] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/rebornix.ruby-0.28.0
+[2021-10-08 19:34:20.431] [sharedprocess] [info] Extracting completed. rebornix.ruby
+[2021-10-08 19:34:20.441] [sharedprocess] [info] Extension installed successfully: wingrunr21.vscode-ruby
+[2021-10-08 19:34:20.442] [sharedprocess] [info] Extension installed successfully: rebornix.ruby
+[2021-10-08 19:34:21.473] [sharedprocess] [info] Downloaded extension: sumneko.lua /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/sumneko.lua-2.4.2
+[2021-10-08 19:34:24.614] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.8e43e318-431c-4cf0-ba6a-9040fee02e32: sumneko.lua
+[2021-10-08 19:34:24.627] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/sumneko.lua-2.4.2
+[2021-10-08 19:34:24.630] [sharedprocess] [info] Extracting completed. sumneko.lua
+[2021-10-08 19:34:24.637] [sharedprocess] [info] Extension installed successfully: sumneko.lua
+[2021-10-08 19:34:25.242] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.367a0761-21ee-4bf5-9b89-f2845e62421c: ikuyadeu.r
+[2021-10-08 19:34:25.255] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/ikuyadeu.r-2.3.1
+[2021-10-08 19:34:25.259] [sharedprocess] [info] Extracting completed. ikuyadeu.r
+[2021-10-08 19:34:25.268] [sharedprocess] [info] Extension installed successfully: ikuyadeu.r
+[2021-10-08 19:34:29.160] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2021-10-08 19:34:30.504] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/msjsdiag.debugger-for-chrome-4.12.6
+[2021-10-08 19:34:31.589] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.439b8aea-4a66-497e-a27c-c6fbe2b1af26: msjsdiag.debugger-for-chrome
+[2021-10-08 19:34:31.602] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/msjsdiag.debugger-for-chrome-4.12.6
+[2021-10-08 19:34:31.606] [sharedprocess] [info] Extracting completed. msjsdiag.debugger-for-chrome
+[2021-10-08 19:34:31.613] [sharedprocess] [info] Extension installed successfully: msjsdiag.debugger-for-chrome
+[2021-10-08 19:34:41.043] [sharedprocess] [info] Installing extension: njpwerner.autodocstring
+[2021-10-08 19:34:42.226] [sharedprocess] [info] Downloaded extension: njpwerner.autodocstring /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/njpwerner.autodocstring-0.5.4
+[2021-10-08 19:34:42.367] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.2bb0b2ea-b6f3-4dc8-b3da-3299388da995: njpwerner.autodocstring
+[2021-10-08 19:34:42.374] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/njpwerner.autodocstring-0.5.4
+[2021-10-08 19:34:42.377] [sharedprocess] [info] Extracting completed. njpwerner.autodocstring
+[2021-10-08 19:34:42.382] [sharedprocess] [info] Extension installed successfully: njpwerner.autodocstring
+[2021-10-08 19:34:47.906] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2021-10-08 19:34:49.009] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-1.0.61
+[2021-10-08 19:34:49.882] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.1653495c-9a3c-4d1f-ba1d-f27b23e0344a: coenraads.bracket-pair-colorizer
+[2021-10-08 19:34:49.889] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2021-10-08 19:34:49.892] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer
+[2021-10-08 19:34:49.897] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer
+[2021-10-08 19:34:54.465] [sharedprocess] [info] Installing extension: denoland.vscode-deno
+[2021-10-08 19:34:55.891] [sharedprocess] [info] Downloaded extension: denoland.vscode-deno /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/denoland.vscode-deno-3.9.1
+[2021-10-08 19:34:55.994] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.d716f853-3df8-474b-9cc1-c8dfeca40df7: denoland.vscode-deno
+[2021-10-08 19:34:56.001] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/denoland.vscode-deno-3.9.1
+[2021-10-08 19:34:56.004] [sharedprocess] [info] Extracting completed. denoland.vscode-deno
+[2021-10-08 19:34:56.013] [sharedprocess] [info] Extension installed successfully: denoland.vscode-deno
+[2021-10-08 19:34:59.063] [sharedprocess] [info] Installing extension: graphql.vscode-graphql
+[2021-10-08 19:35:03.045] [sharedprocess] [info] Installing extension: firefox-devtools.vscode-firefox-debug
+[2021-10-08 19:35:03.400] [sharedprocess] [info] Downloaded extension: graphql.vscode-graphql /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/graphql.vscode-graphql-0.3.8
+[2021-10-08 19:35:04.111] [sharedprocess] [info] Downloaded extension: firefox-devtools.vscode-firefox-debug /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/firefox-devtools.vscode-firefox-debug-2.9.1
+[2021-10-08 19:35:04.194] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.d9401323-fa04-4d94-9daf-882d975a6edd: firefox-devtools.vscode-firefox-debug
+[2021-10-08 19:35:04.204] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/firefox-devtools.vscode-firefox-debug-2.9.1
+[2021-10-08 19:35:04.207] [sharedprocess] [info] Extracting completed. firefox-devtools.vscode-firefox-debug
+[2021-10-08 19:35:04.216] [sharedprocess] [info] Extension installed successfully: firefox-devtools.vscode-firefox-debug
+[2021-10-08 19:35:08.996] [sharedprocess] [info] Installing extension: alexcvzz.vscode-sqlite
+[2021-10-08 19:35:10.895] [sharedprocess] [info] Downloaded extension: alexcvzz.vscode-sqlite /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/alexcvzz.vscode-sqlite-0.13.0
+[2021-10-08 19:35:11.242] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.e09682d6-d73d-4518-8e7b-04a49856d68d: alexcvzz.vscode-sqlite
+[2021-10-08 19:35:11.253] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/alexcvzz.vscode-sqlite-0.13.0
+[2021-10-08 19:35:11.256] [sharedprocess] [info] Extracting completed. alexcvzz.vscode-sqlite
+[2021-10-08 19:35:11.264] [sharedprocess] [info] Extension installed successfully: alexcvzz.vscode-sqlite
+[2021-10-08 19:35:18.838] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.6b0f3a73-6982-4905-bb8c-08b1e5a84d95: graphql.vscode-graphql
+[2021-10-08 19:35:18.848] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/graphql.vscode-graphql-0.3.8
+[2021-10-08 19:35:18.852] [sharedprocess] [info] Extracting completed. graphql.vscode-graphql
+[2021-10-08 19:35:18.863] [sharedprocess] [info] Extension installed successfully: graphql.vscode-graphql
+[2021-10-08 19:35:27.551] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2021-10-08 19:35:29.038] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/christian-kohler.npm-intellisense-1.2.2
+[2021-10-08 19:35:29.122] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.e66bb467-129e-4d32-b18d-880cdd81a15f: christian-kohler.npm-intellisense
+[2021-10-08 19:35:29.134] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/christian-kohler.npm-intellisense-1.2.2
+[2021-10-08 19:35:29.137] [sharedprocess] [info] Extracting completed. christian-kohler.npm-intellisense
+[2021-10-08 19:35:29.144] [sharedprocess] [info] Extension installed successfully: christian-kohler.npm-intellisense
+[2021-10-08 19:35:53.645] [sharedprocess] [info] Installing extension: ms-python.anaconda-extension-pack
+[2021-10-08 19:35:55.053] [sharedprocess] [info] Downloaded extension: ms-python.anaconda-extension-pack /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/ms-python.anaconda-extension-pack-1.0.1
+[2021-10-08 19:35:55.070] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.d72c34f5-049b-4f96-9961-9af7bc6d10c8: ms-python.anaconda-extension-pack
+[2021-10-08 19:35:55.081] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/ms-python.anaconda-extension-pack-1.0.1
+[2021-10-08 19:35:55.085] [sharedprocess] [info] Extracting completed. ms-python.anaconda-extension-pack
+[2021-10-08 19:35:55.093] [sharedprocess] [info] Extension installed successfully: ms-python.anaconda-extension-pack
+[2021-10-08 19:36:01.533] [sharedprocess] [info] Installing extension: mechatroner.rainbow-csv
+[2021-10-08 19:36:03.490] [sharedprocess] [info] Downloaded extension: mechatroner.rainbow-csv /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/mechatroner.rainbow-csv-1.7.1
+[2021-10-08 19:36:03.571] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.e8f9c893-6441-49eb-813c-a3dd5c001d91: mechatroner.rainbow-csv
+[2021-10-08 19:36:03.581] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/mechatroner.rainbow-csv-1.7.1
+[2021-10-08 19:36:03.584] [sharedprocess] [info] Extracting completed. mechatroner.rainbow-csv
+[2021-10-08 19:36:03.593] [sharedprocess] [info] Extension installed successfully: mechatroner.rainbow-csv
+[2021-10-08 19:36:16.994] [sharedprocess] [info] Installing extension: alefragnani.bookmarks
+[2021-10-08 19:36:19.876] [sharedprocess] [info] Downloaded extension: alefragnani.bookmarks /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/alefragnani.bookmarks-13.0.1
+[2021-10-08 19:36:20.083] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.73e5b65c-ba7d-4912-8d3b-14515d864d2e: alefragnani.bookmarks
+[2021-10-08 19:36:20.094] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/alefragnani.bookmarks-13.0.1
+[2021-10-08 19:36:20.097] [sharedprocess] [info] Extracting completed. alefragnani.bookmarks
+[2021-10-08 19:36:20.107] [sharedprocess] [info] Extension installed successfully: alefragnani.bookmarks
+[2021-10-08 19:36:52.427] [sharedprocess] [info] Installing extension: ms-vscode.go
+[2021-10-08 19:36:55.804] [sharedprocess] [info] Downloaded extension: ms-vscode.go /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.go-0.14.3
+[2021-10-08 19:37:00.899] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.6c5fa0ce-82cf-4412-950f-7f1a662176b0: ms-vscode.go
+[2021-10-08 19:37:00.919] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/ms-vscode.go-0.14.3
+[2021-10-08 19:37:00.924] [sharedprocess] [info] Extracting completed. ms-vscode.go
+[2021-10-08 19:37:00.938] [sharedprocess] [info] Extension installed successfully: ms-vscode.go
+[2021-10-08 19:37:02.900] [sharedprocess] [info] Uninstalling extension: ms-vscode.go
+[2021-10-08 19:37:03.407] [sharedprocess] [info] Detected extension removed from another source ms-vscode.go
+[2021-10-08 19:37:04.059] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.go
+[2021-10-08 19:37:16.485] [sharedprocess] [info] Installing extension: orta.vscode-jest
+[2021-10-08 19:37:17.554] [sharedprocess] [info] Downloaded extension: orta.vscode-jest /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/orta.vscode-jest-4.0.0-alpha.1
+[2021-10-08 19:37:17.754] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.0d554c3f-4b3b-402a-9a32-c688530d6f5a: orta.vscode-jest
+[2021-10-08 19:37:17.778] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/orta.vscode-jest-4.0.0-alpha.1
+[2021-10-08 19:37:17.780] [sharedprocess] [info] Extracting completed. orta.vscode-jest
+[2021-10-08 19:37:17.790] [sharedprocess] [info] Extension installed successfully: orta.vscode-jest
+[2021-10-08 19:38:29.959] [sharedprocess] [info] Installing extension: belfz.search-crates-io
+[2021-10-08 19:38:31.047] [sharedprocess] [info] Downloaded extension: belfz.search-crates-io /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/belfz.search-crates-io-1.2.1
+[2021-10-08 19:38:31.169] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.c8d1642c-9059-49fe-8e20-87a2e2c953de: belfz.search-crates-io
+[2021-10-08 19:38:31.175] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/belfz.search-crates-io-1.2.1
+[2021-10-08 19:38:31.177] [sharedprocess] [info] Extracting completed. belfz.search-crates-io
+[2021-10-08 19:38:31.183] [sharedprocess] [info] Extension installed successfully: belfz.search-crates-io
+[2021-10-08 19:38:46.809] [sharedprocess] [info] Installing extension: ethan-reesor.vscode-go-test-adapter
+[2021-10-08 19:38:47.908] [sharedprocess] [info] Downloaded extension: ethan-reesor.vscode-go-test-adapter /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/ethan-reesor.vscode-go-test-adapter-0.1.6
+[2021-10-08 19:38:48.023] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.a9b0ad88-90b9-4974-ae1f-27f169c1e1e8: ethan-reesor.vscode-go-test-adapter
+[2021-10-08 19:38:48.030] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/ethan-reesor.vscode-go-test-adapter-0.1.6
+[2021-10-08 19:38:48.032] [sharedprocess] [info] Extracting completed. ethan-reesor.vscode-go-test-adapter
+[2021-10-08 19:38:48.038] [sharedprocess] [info] Extension installed successfully: ethan-reesor.vscode-go-test-adapter
+[2021-10-08 19:39:05.303] [sharedprocess] [info] Installing extension: bmalehorn.vscode-fish
+[2021-10-08 19:39:06.779] [sharedprocess] [info] Downloaded extension: bmalehorn.vscode-fish /home/allenhunn/.config/Code - OSS/CachedExtensionVSIXs/bmalehorn.vscode-fish-1.0.20
+[2021-10-08 19:39:06.812] [sharedprocess] [info] Extracted extension to /home/allenhunn/.vscode-oss/extensions/.003e6a65-1bb5-452c-945c-c17144a4769f: bmalehorn.vscode-fish
+[2021-10-08 19:39:06.817] [sharedprocess] [info] Renamed to /home/allenhunn/.vscode-oss/extensions/bmalehorn.vscode-fish-1.0.20
+[2021-10-08 19:39:06.820] [sharedprocess] [info] Extracting completed. bmalehorn.vscode-fish
+[2021-10-08 19:39:06.825] [sharedprocess] [info] Extension installed successfully: bmalehorn.vscode-fish

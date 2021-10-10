@@ -1,0 +1,55 @@
+Info 2021-10-08 19:36:25: ZMQ install verified.
+Error 2021-10-08 19:36:25: extension activation failed Error: [ms-toolsai.jupyter]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80592)
+    at h (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80539)
+    at Object.onDidChangeCellMetadata (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:40943)
+    at d.addEventHandlers (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:551101)
+    at new d (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:549155)
+    at Object.t.resolveInstance (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:264370)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263575
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:264140)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263575
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:262523
+    at Array.map (<anonymous>)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:262495
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:264140)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263575
+    at Object.t.resolve (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263838)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:254935
+    at e._get (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:254701)
+    at e.get (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:253413)
+    at a.get (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:90:578774)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:247119
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:37:849148
+    at t.activate (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:37:848835)
+    at async Promise.all (index 2)
+Error 2021-10-08 19:36:25: Failed to active the Jupyter Extension Error: [ms-toolsai.jupyter]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+    at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80592)
+    at h (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:80539)
+    at Object.onDidChangeCellMetadata (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:40943)
+    at d.addEventHandlers (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:551101)
+    at new d (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:549155)
+    at Object.t.resolveInstance (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:264370)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263575
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:264140)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263575
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:262523
+    at Array.map (<anonymous>)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:262495
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:264140)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263575
+    at Object.t.resolve (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:263838)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:254935
+    at e._get (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:254701)
+    at e.get (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:253413)
+    at a.get (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:90:578774)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:247119
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at /home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:37:849148
+    at t.activate (/home/allenhunn/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:37:848835)
+    at async Promise.all (index 2)

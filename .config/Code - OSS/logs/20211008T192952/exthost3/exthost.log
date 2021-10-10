@@ -1,0 +1,173 @@
+[2021-10-10 02:51:01.544] [exthost] [info] extension host started
+[2021-10-10 02:51:01.545] [exthost] [info] Skipping acquiring lock for /home/allenhunn/.config/Code - OSS/User/workspaceStorage/53dd6e250778d2dca020679dbc615079.
+[2021-10-10 02:51:01.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-10 02:51:01.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-10-10 02:51:01.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-10 02:51:01.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-10-10 02:51:01.660] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-10-10 02:51:01.660] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-10-10 02:51:01.671] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-10-10 02:51:01.671] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.12/out/src/extension
+[2021-10-10 02:51:01.678] [exthost] [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2021-10-10 02:51:01.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/hbenl.test-adapter-converter-0.1.2/out/extension.js
+[2021-10-10 02:51:01.685] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-10-10 02:51:01.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-10-10 02:51:01.768] [exthost] [error] Activating extension christian-kohler.path-intellisense failed due to an error:
+[2021-10-10 02:51:01.768] [exthost] [error] Error: Cannot find module 'json5'
+Require stack:
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/tsconfig.service.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/configuration.service.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/javascript/javascript.provider.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/default.provider.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/index.js
+- /home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+	at Module._load (internal/modules/cjs/loader.js:732:27)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at v (/usr/lib/code/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/tsconfig.service.js:13:15)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at v (/usr/lib/code/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/configuration/configuration.service.js:13:28)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at v (/usr/lib/code/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/javascript/javascript.provider.js:13:33)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at v (/usr/lib/code/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/default.provider.js:3:31)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at v (/usr/lib/code/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/providers/index.js:3:28)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at v (/usr/lib/code/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/home/allenhunn/.vscode-oss/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js:6:21)
+	at Module.u._compile (/usr/lib/code/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+	at Module.load (internal/modules/cjs/loader.js:935:32)
+	at Module._load (internal/modules/cjs/loader.js:776:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at require (internal/modules/cjs/helpers.js:88:18)
+	at Function.t [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:101)
+	at v._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26187)
+	at v._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12594)
+	at v._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11695)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 2)
+	at async Promise.all (index 0)
+[2021-10-10 02:51:01.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-10 02:51:01.931] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-10-10 02:51:01.938] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2021-10-10 02:51:01.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/hbenl.vscode-test-explorer-2.21.1/out/main.js
+[2021-10-10 02:51:02.002] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-10 02:51:02.002] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-10 02:51:02.176] [exthost] [info] eager extensions activated
+[2021-10-10 02:51:02.365] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3801
+[2021-10-10 02:51:03.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:03.385] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-10 02:51:03.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:03.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-10 02:51:03.405] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:03.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-10-10 02:51:03.468] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:03.468] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-10-10 02:51:03.809] [exthost] [error] Activating extension esbenp.prettier-vscode failed due to an error:
+[2021-10-10 02:51:03.809] [exthost] [error] TypeError: Cannot assign to read only property 'prettierPath' of object '#<Object>'
+    at Object.logInfo [as getConfig] (/home/allenhunn/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0/src/util.ts:42:12)
+    at e.activate (/home/allenhunn/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0/src/extension.ts:29:20)
+    at Function._callActivateOptional (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:14900)
+    at Function._callActivate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:14576)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12779
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+[2021-10-10 02:51:04.339] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":false,"extensionId":{"value":"alefragnani.Bookmarks","_lower":"alefragnani.bookmarks"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:04.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/alefragnani.bookmarks-13.0.1/dist/extension
+[2021-10-10 02:51:04.349] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-10-10 02:51:04.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-10-10 02:51:04.432] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:04.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.20/client/out/extension
+[2021-10-10 02:51:04.448] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":false,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:04.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/editorconfig.editorconfig-0.16.6/out/editorConfigMain.js
+[2021-10-10 02:51:04.472] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:04.472] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-10-10 02:51:04.535] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":false,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"onStartupFinished"}
+[2021-10-10 02:51:04.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.212/dist/extension
+[2021-10-10 02:51:04.552] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":false,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-10-10 02:51:04.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/oderwat.indent-rainbow-8.1.0/out/extension
+[2021-10-10 02:51:04.553] [exthost] [error] Activating extension oderwat.indent-rainbow failed due to an error:
+[2021-10-10 02:51:04.553] [exthost] [error] Error: Cannot find module '/home/allenhunn/.vscode-oss/extensions/oderwat.indent-rainbow-8.1.0/out/extension'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+    at Module._load (internal/modules/cjs/loader.js:732:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+    at Function.E._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+    at Function.o._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Function.t [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:101)
+    at v._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26187)
+    at v._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12594)
+    at v._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11695)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+    at v.$activate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:20108)
+[2021-10-10 02:51:18.315] [exthost] [info] ExtensionService#_doActivateExtension bmalehorn.vscode-fish {"startup":false,"extensionId":{"value":"bmalehorn.vscode-fish","_lower":"bmalehorn.vscode-fish"},"activationEvent":"onLanguage:fish"}
+[2021-10-10 02:51:18.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/bmalehorn.vscode-fish-1.0.20/out/extension
+[2021-10-10 02:51:18.676] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2021-10-10 02:51:18.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/allenhunn/.vscode-oss/extensions/mechatroner.rainbow-csv-1.7.1/extension
+[2021-10-10 02:51:19.269] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3802
+[2021-10-10 03:14:37.917] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3802

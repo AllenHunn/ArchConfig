@@ -1,0 +1,11 @@
+[Extraction]
+openDestinationFolderAfterExtraction=true
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAArwAAAHKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP XPosition 1920x1080=1012
+eDP YPosition 1920x1080=236
+splitterSizes=464,232

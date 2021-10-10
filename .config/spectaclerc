@@ -1,0 +1,14 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+printKeyActionRunning=FocusWindow
+useReleaseToCapture=true
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+
+[Save]
+saveFilenameFormat=Screenshot_%T_%d
